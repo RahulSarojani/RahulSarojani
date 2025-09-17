@@ -43,14 +43,14 @@ I specialize in **Python**, **SQL**, **Power BI**, and **Machine Learning**, tur
 
 ## 📚 Courses & Certifications
 
-| Logo | Course | Year |
+|  | Course | Year |
 |------|--------|------|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Data_Analytics_Certificate_logo.png" width="60"> | **Google Data Analytics Certificate** *(Coursera)* | 2023 |
-| <img src="https://nareshit.com/wp-content/uploads/2022/08/cropped-naresh-logo.png" width="60"> | **Full Stack Data Science & AI Program** *(Naresh IT)* | 2022 |
-| <img src="https://www.ox.ac.uk/sites/files/oxford/styles/ow_medium_feature/s3/field/field_image_main/Oxford.jpg" width="60"> | **School of Climate Change** *(University of Oxford)* | 2022 |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/UNICEF_logo.png" width="60"> | **UNICEF WASH Financing Course** | 2021 |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/UNICEF_logo.png" width="60"> | **Early Childhood Programming Course** *(UNICEF)* | 2021 |
-| <img src="https://www.corporatefinanceinstitute.com/wp-content/uploads/2021/05/CFI-logo.png" width="60"> | **Introduction to ESG (Environmental, Social & Governance)** *(CFI)* | 2022 |
+| <img src="https://images.credly.com/images/4fc3fbcd-87af-4eb9-8f82-8898377c4a94/Badge.png" width="60"> | **Google Data Analytics Certificate** *(Coursera)* | 2023 |
+| <img src="https://nareshit.in/wp-content/uploads/2023/02/nareshitechnologies-png-logo.png" width="60"> | **Full Stack Data Science & AI Program** *(Naresh IT)* | 2022 |
+| <img src="https://www.maths.ox.ac.uk/system/files/styles/scale_480_240/private/media/images/Logo%20OCS%20Orange_0.jpg?itok=iHLtsyDz" width="60"> | **School of Climate Change** *(University of Oxford)* | 2022 |
+| <img src="https://learn.educationcluster.net/pluginfile.php/1707302/course/overviewfiles/Cover%20image_UNICEF_provider.png" width="60"> | **UNICEF WASH Financing Course** | 2021 |
+| <img src="https://learn.educationcluster.net/pluginfile.php/1707302/course/overviewfiles/Cover%20image_UNICEF_provider.png" width="60"> | **Early Childhood Programming Course** *(UNICEF)* | 2021 |
+| <img src="https://cdn.corporatefinanceinstitute.com/assets/esg-environmental-social-governance.jpg" width="60"> | **Introduction to ESG (Environmental, Social & Governance)** *(CFI)* | 2022 |
 
 ---
 
