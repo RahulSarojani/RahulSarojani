@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rahul Patil
+# 👋 Hi, I'm Rahul
 
 🌍 **Development Professional | Data Science Enthusiast | Sustainability Advocate**
 
