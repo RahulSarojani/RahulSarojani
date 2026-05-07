@@ -23,7 +23,6 @@ I specialize in **Python**, **SQL**, **Power BI**, and **Machine Learning**, tur
 || Degree & Institution | Year |
 |------|----------------------|------|
 | <img src="https://upload.wikimedia.org/wikipedia/en/0/09/Ashoka_University_logo_with_wordmark.png" width="60"> | **Professional Executive Development Program, Data Science for Social Impact** <br> *School of Data Science, Ashoka University* | 2024 – 2025 |
-| <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/IGNOU_logo.svg/1200px-IGNOU_logo.svg.png" width="60"> | | **PG Diploma in Water, Sanitation & Hygiene (WASH)** <br> *Tata Institute of Social Sciences* | 2018 – 2019 |
 | <img src="https://upload.wikimedia.org/wikipedia/en/f/f9/Rashtrasant_Tukadoji_Maharaj_Nagpur_University_logo.jpg" width="60"> | **B.E. in Mechanical Engineering** <br> *RTM Nagpur University* | 2011 – 2014 |
 
 ---
